@@ -5,6 +5,5 @@ package factory.abstractfactory;
  */
 public interface Factory {
      Phone createPhone();
-
      Laptop createLaptop();
 }
