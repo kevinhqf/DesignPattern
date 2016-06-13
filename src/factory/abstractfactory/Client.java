@@ -5,9 +5,10 @@ package factory.abstractfactory;
  */
 public class Client {
     public static void main(String[] args) {
-        Phone android = new GoogleFactory().createPhone();
-        Laptop macbook = new AppleFactory().createLaptop();
+        Factory factory=new GoogleFactory();
+        Phone android = factory.createPhone();
+        Laptop chromebook = factory.createLaptop();
         android.call();
-        macbook.work();
+        chromebook.work();
     }
 }
