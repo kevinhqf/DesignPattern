@@ -5,7 +5,7 @@ package builder;
  */
 public class Worker {
     private PhoneBuilder phoneBuilder;
-    //设置具有的PhoneBuilder
+    //设置具体的PhoneBuilder
     public void setPhoneBuilder(PhoneBuilder phoneBuilder) {
         this.phoneBuilder = phoneBuilder;
     }

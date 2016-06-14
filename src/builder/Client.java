@@ -12,5 +12,4 @@ public class Client {
         Phone phone = worker.getPhone();
         phone.info();
     }
-
 }
