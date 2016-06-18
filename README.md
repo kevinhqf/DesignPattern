@@ -5,6 +5,7 @@
 ### [浅谈Java设计模式系列0x04---抽象工厂模式](https://kevinhqf.github.io/2016/06/13/DesignPatterns_04/)
 ### [浅谈Java设计模式系列0x05---建造者模式](https://kevinhqf.github.io/2016/06/14/DesignPatterns_05/)
 ### [浅谈Java设计模式系列0x06---适配器模式](https://kevinhqf.github.io/2016/06/15/DesignPatterns_06/)
-### [浅谈Java设计模式系列0x07---桥接模式](https://kevinhqf.github.io/2016/06/16/DesignPatterns_07/)
+### [浅谈Java设计模式系列0x07---桥接模式](https://kevinhqf.github.io/2016/06/18/DesignPatterns_07/)
+### [浅谈Java设计模式系列0x08---装饰器模式](https://kevinhqf.github.io/2016/06/18/DesignPatterns_08/)
 
 
