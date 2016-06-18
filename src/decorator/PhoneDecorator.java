@@ -13,16 +13,13 @@ public class PhoneDecorator implements Phone {
     public PhoneDecorator(Phone phone) {
         this.phone = phone;
     }
-
     @Override
     public void call() {
         //调用原有的业务方法
         this.phone.call();
     }
-
     @Override
     public void message() {
         this.phone.message();
     }
-
 }

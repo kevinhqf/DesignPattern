@@ -15,7 +15,6 @@ public class FaceTimeDecorator extends PhoneDecorator {
         callWithFaceTime();//调用新增的业务方法
     }
 
-
     //新增的业务方法,
     public void callWithFaceTime(){
         System.out.println("this call is powered by FaceTime...");
