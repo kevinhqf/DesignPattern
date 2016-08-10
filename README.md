@@ -8,4 +8,6 @@
 ### [浅谈Java设计模式系列0x07---桥接模式](https://kevinhqf.github.io/2016/06/18/DesignPatterns_07/)
 ### [浅谈Java设计模式系列0x08---装饰器模式](https://kevinhqf.github.io/2016/06/18/DesignPatterns_08/)  
 ### [浅谈Java设计模式系列0x09---外观模式](https://kevinhqf.github.io/2016/06/19/DesignPatterns_09/)
+### [浅谈Java设计模式系列0x0A---代理模式](https://kevinhqf.github.io/2016/06/24/DesignPatterns_0A/)
+### [浅谈Java设计模式系列0x0B---观察者模式](https://kevinhqf.github.io/2016/06/25/DesignPatterns_0B/)
 
